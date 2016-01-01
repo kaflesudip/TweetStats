@@ -1,23 +1,13 @@
 #!/usr/bin/env python
 # encoding: utf-8
-from twython import Twython, TwythonStreamer
+from twython import TwythonStreamer
 from models import Tweet
 import datetime
 
-APP_KEY = '9KcrkaDo5VU7ZXvePydFaavU1'
-APP_SECRET = 'wusZhyHMVg86GYuq86q8i5QdpJqyxgJb1cVf2PIKSHf0J33vWY'
-OAUTH_TOKEN = '137592952-UbPQLHixGEPa8PixO7tuwvxWPJ7osRjHSz8tyeJj'
-OAUTH_TOKEN_SECRET = 'AxZunGLLwQa3pN8rVqLSSpPolYt69JGuSI6JazEZZmtpI'
-
-
-class OauthToken():
-    APP_KEY = '9KcrkaDo5VU7ZXvePydFaavU1'
-    APP_SECRET = 'wusZhyHMVg86GYuq86q8i5QdpJqyxgJb1cVf2PIKSHf0J33vWY'
-
-    def get_token(self):
-        twitter = Twython(self.APP_KEY, self.APP_SECRET)
-        auth = twitter.get_authentication_tokens('http://localhost:8000/')
-        return auth
+APP_KEY = ''
+APP_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 
 class MyStreamer(TwythonStreamer):
