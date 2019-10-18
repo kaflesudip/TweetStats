@@ -158,7 +158,7 @@ virtualenv==1.11.6
 vobject==0.8.1rc0
 wcwidth==0.1.5
 websocket-client==0.32.0
-Werkzeug==0.9.4
+Werkzeug==0.15.3
 wheel==0.26.0
 xdot==0.5
 xhtml2pdf==0.0.6
