@@ -3,7 +3,7 @@ ansible==1.8
 apsw==3.8.2.post1
 apt-xapian-index==0.45
 apturl===0.4.1ubuntu4
-Babel==2.0
+Babel==2.9.1
 backports-abc==0.4
 backports.ssl-match-hostname==3.4.0.2
 BeautifulSoup==3.2.1
