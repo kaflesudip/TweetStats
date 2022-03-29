@@ -74,7 +74,7 @@ oneconf==0.3.7.14.4.1
 openshot==1.4.3
 PAM==0.4.2
 pandas==0.17.1
-paramiko==1.10.1
+paramiko==2.10.1
 path.py==8.1.2
 pdfminer==20140328
 pexpect==3.1
