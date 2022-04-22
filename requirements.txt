@@ -105,7 +105,7 @@ PyMySQL==0.6.7
 PyOpenGL==3.0.2
 pyOpenSSL==0.13
 pyparsing==2.0.1
-PyPDF2==1.24
+PyPDF2==1.27.5
 Pyrex==0.9.8.5
 pyserial==2.6
 pysmbc==1.0.14.1
