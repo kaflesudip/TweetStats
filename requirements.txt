@@ -38,7 +38,7 @@ Flask==0.10.1
 functools32==3.2.3.post2
 gdata==2.0.18
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.8
 ipykernel==4.1.1
 ipython==4.0.0
