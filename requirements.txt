@@ -63,7 +63,7 @@ mixpanel-py==4.0.2
 mock==1.0.1
 mongoengine==0.8.7
 mycli==1.5.2
-nbconvert==4.1.0
+nbconvert==6.5.1
 nbformat==4.0.1
 netifaces==0.8
 nose==1.3.1
