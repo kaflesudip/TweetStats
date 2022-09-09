@@ -58,7 +58,7 @@ Mako==0.9.1
 Markdown==2.4
 MarkupSafe==0.23
 mechanize==0.2.5
-mistune==0.7.1
+mistune==0.8.1
 mixpanel-py==4.0.2
 mock==1.0.1
 mongoengine==0.8.7
