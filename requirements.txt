@@ -54,7 +54,7 @@ jupyter-core==4.0.6
 line-profiler==1.0
 lockfile==0.8
 lxml==3.3.3
-Mako==0.9.1
+Mako==1.2.2
 Markdown==2.4
 MarkupSafe==0.23
 mechanize==0.2.5
